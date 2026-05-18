@@ -1,6 +1,3 @@
-// schemas.js — single source of truth for every block type.
-// Each schema defines: label, category, icon, default props, and editable field definitions.
-
 export const SCHEMAS = {
   navbar: {
     label: 'Navbar',
